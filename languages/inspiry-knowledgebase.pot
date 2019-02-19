@@ -2,16 +2,16 @@
 msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"Project-Id-Version: Knowledge Base Theme\n"
-"POT-Creation-Date: 2018-11-19 21:45+0500\n"
-"PO-Revision-Date: 2018-11-19 21:45+0500\n"
+"Project-Id-Version: Inspiry KnowledgeBase\n"
+"POT-Creation-Date: 2019-02-19 15:10+0500\n"
+"PO-Revision-Date: 2019-02-19 15:09+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.1.1\n"
-"X-Poedit-Basepath: .\n"
+"X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -37,27 +37,7 @@ msgstr ""
 msgid "Please try search for what you are looking for!"
 msgstr ""
 
-#: archive.php:16
-msgid "All posts in"
-msgstr ""
-
-#: archive.php:21
-msgid "All posts tagged "
-msgstr ""
-
-#: archive.php:26 archive.php:31 archive.php:36
-msgid "Archive for"
-msgstr ""
-
-#: archive.php:42
-msgid "All posts by"
-msgstr ""
-
-#: archive.php:47
-msgid "Archives"
-msgstr ""
-
-#: archive.php:60 search.php:73
+#: archive.php:37 search.php:87
 msgid "No Result Found!"
 msgstr ""
 
@@ -119,7 +99,6 @@ msgstr ""
 
 #: framework/customizer/custom/repeater/class/customizer-repeater-control.php:231
 #: framework/customizer/custom/repeater/class/customizer-repeater-control.php:334
-#: widgets/flickr-widget.php:115
 msgid "Title"
 msgstr ""
 
@@ -245,38 +224,38 @@ msgstr ""
 msgid "Featured Articles Title"
 msgstr ""
 
-#: framework/customizer/home.php:71
+#: framework/customizer/home.php:72
 msgid "Choose a tag for homepage featured articles."
 msgstr ""
 
-#: framework/customizer/home.php:72
+#: framework/customizer/home.php:73
 msgid ""
 "Homepage featured articles sections will display articles based on selected "
 "tag."
 msgstr ""
 
-#: framework/customizer/home.php:86
+#: framework/customizer/home.php:87
 msgid "Latest Articles Title"
 msgstr ""
 
-#: framework/customizer/home.php:97
+#: framework/customizer/home.php:99
 msgid "Number of articles to display."
 msgstr ""
 
-#: framework/customizer/home.php:98
+#: framework/customizer/home.php:100
 msgid ""
 "Number of articles to display for latest and featured section on homepage."
 msgstr ""
 
-#: framework/customizer/home.php:111
+#: framework/customizer/home.php:113
 msgid "Select Categories"
 msgstr ""
 
-#: framework/customizer/home.php:121
+#: framework/customizer/home.php:124
 msgid "Number of articles to display for each category"
 msgstr ""
 
-#: framework/customizer/home.php:122
+#: framework/customizer/home.php:125
 msgid ""
 "Number of articles to display for each category on Homepage Template with "
 "Category and Article List."
@@ -404,167 +383,119 @@ msgstr ""
 msgid "Typography"
 msgstr ""
 
-#: framework/customizer/typography.php:24
+#: framework/customizer/typography.php:25
 msgid "Primary Font"
 msgstr ""
 
-#: framework/customizer/typography.php:25
+#: framework/customizer/typography.php:26
 msgid "This font will replace primary Open Sans theme font."
 msgstr ""
 
-#: framework/customizer/typography.php:37
+#: framework/customizer/typography.php:39
 msgid "Secondary Font"
 msgstr ""
 
-#: framework/customizer/typography.php:38
+#: framework/customizer/typography.php:40
 msgid "This font will replace secondary Droid Serif theme font."
 msgstr ""
 
-#: functions.php:104
+#: functions.php:36
+msgid "Paragraph Color Rolling Stone"
+msgstr ""
+
+#: functions.php:41
+msgid "Heading and Link Color Mako"
+msgstr ""
+
+#: functions.php:46
+msgid "Link Hover Chambray"
+msgstr ""
+
+#: functions.php:54
+msgid "small"
+msgstr ""
+
+#: functions.php:59
+msgid "regular"
+msgstr ""
+
+#: functions.php:64
+msgid "large"
+msgstr ""
+
+#: functions.php:69
+msgid "larger"
+msgstr ""
+
+#: functions.php:129
 msgctxt "Open Sans Round font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:105
+#: functions.php:130
 msgctxt "Droid Serif Round font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:111 functions.php:122
+#: functions.php:136 functions.php:147
 msgctxt "Primary Font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:328 functions/load_theme_scripts.php:38
+#: functions.php:365 functions/load_theme_scripts.php:38
 msgid "Go to..."
 msgstr ""
 
-#: functions.php:516
+#: functions.php:474
 msgid "Sidebar"
 msgstr ""
 
-#: functions.php:526
+#: functions.php:484
 msgid "Home Sidebar"
 msgstr ""
 
-#: functions.php:536
+#: functions.php:494
 msgid "Pages Sidebar"
 msgstr ""
 
-#: functions.php:546
+#: functions.php:504
 msgid "Contact Sidebar"
 msgstr ""
 
-#: functions.php:556
+#: functions.php:514
 msgid "Footer First Column"
 msgstr ""
 
-#: functions.php:566
+#: functions.php:524
 msgid "Footer Second Column"
 msgstr ""
 
-#: functions.php:576
+#: functions.php:534
 msgid "Footer Third Column"
 msgstr ""
 
-#: functions.php:586
+#: functions.php:544
 msgid "Footer Fourth Column"
 msgstr ""
 
-#: functions.php:675
-msgid "First"
-msgstr ""
-
-#: functions.php:676
-msgid "Previous"
-msgstr ""
-
-#: functions.php:685
-msgid "Next"
-msgstr ""
-
-#: functions.php:686
-msgid "Last"
-msgstr ""
-
-#: functions.php:720
+#: functions.php:619
 msgid "Tag: "
 msgstr ""
 
-#: functions.php:727
+#: functions.php:626
 msgid "404 - Page not Found"
 msgstr ""
 
-#: functions.php:734 header.php:105
+#: functions.php:633 header.php:93
 msgid "Search"
 msgstr ""
 
-#: functions.php:783
-msgid "Action failed due to some server issue!"
-msgstr ""
-
-#: functions.php:786
-msgid "Already Liked!"
-msgstr ""
-
-#: functions.php:789
-msgid "Invalid Parameters!"
-msgstr ""
-
-#: functions.php:873
+#: functions.php:711
 msgid "Read more"
 msgstr ""
 
-#: functions.php:897 index.php:21
+#: functions.php:735 index.php:40
 msgid "No Articles Found!"
-msgstr ""
-
-#: functions/contact_form_handler.php:22
-msgid "Unverified Nonce!"
-msgstr ""
-
-#: functions/contact_form_handler.php:33
-msgid "Target Email address is not properly configured!"
-msgstr ""
-
-#: functions/contact_form_handler.php:48
-msgid "Provided Email address is invalid!"
-msgstr ""
-
-#: functions/contact_form_handler.php:53
-msgid "New message sent by"
-msgstr ""
-
-#: functions/contact_form_handler.php:53
-msgid "using contact form at"
-msgstr ""
-
-#: functions/contact_form_handler.php:55
-msgid "You have Received a message from: "
-msgstr ""
-
-#: functions/contact_form_handler.php:55
-msgid "Their additional message is as follows."
-msgstr ""
-
-#: functions/contact_form_handler.php:59
-msgid "You can contact"
-msgstr ""
-
-#: functions/contact_form_handler.php:59
-msgid "via email,"
-msgstr ""
-
-#: functions/contact_form_handler.php:70
-msgid "Message Sent Successfully!"
-msgstr ""
-
-#: functions/contact_form_handler.php:75
-msgid "Server Error: WordPress mail function failed!"
-msgstr ""
-
-#: functions/contact_form_handler.php:83
-msgid "Invalid Request !"
 msgstr ""
 
 #: functions/theme_comment.php:17
@@ -593,70 +524,12 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: header.php:104
+#: header.php:92
 msgid "Type your search terms here"
 msgstr ""
 
-#: header.php:104
+#: header.php:92
 msgid "* Please enter a search term!"
-msgstr ""
-
-#: include/faq-post-type.php:6
-msgid "FAQs"
-msgstr ""
-
-#: include/faq-post-type.php:7
-msgid "FAQ"
-msgstr ""
-
-#: include/faq-post-type.php:8
-msgid "Add New"
-msgstr ""
-
-#: include/faq-post-type.php:9
-msgid "Add New FAQ"
-msgstr ""
-
-#: include/faq-post-type.php:10
-msgid "Edit FAQ"
-msgstr ""
-
-#: include/faq-post-type.php:11
-msgid "New FAQ"
-msgstr ""
-
-#: include/faq-post-type.php:12
-msgid "View FAQ"
-msgstr ""
-
-#: include/faq-post-type.php:13
-msgid "Search FAQ"
-msgstr ""
-
-#: include/faq-post-type.php:14
-msgid "No FAQs found"
-msgstr ""
-
-#: include/faq-post-type.php:15
-msgid "No FAQs found in Trash"
-msgstr ""
-
-#: include/faq-post-type.php:30
-msgid "faq"
-msgstr ""
-
-#: include/meta-boxes.php:11
-msgid "Video Settings"
-msgstr ""
-
-#: include/meta-boxes.php:24
-msgid "Embed Code"
-msgstr ""
-
-#: include/meta-boxes.php:25
-msgid ""
-"If you are not using self hosted videos then please provide the video embed "
-"code and remove the the width and height attributes."
 msgstr ""
 
 #: search.php:44
@@ -667,73 +540,71 @@ msgstr ""
 msgid "Search Results for"
 msgstr ""
 
-#: single.php:32 template-parts/article-for-listing.php:26
+#: single.php:41 template-parts/article-for-listing.php:26
 msgid "0 Comments"
 msgstr ""
 
-#: single.php:32 template-parts/article-for-listing.php:26
+#: single.php:41 template-parts/article-for-listing.php:26
 msgid "1 Comment"
 msgstr ""
 
-#: single.php:32 template-parts/article-for-listing.php:26
+#: single.php:41 template-parts/article-for-listing.php:26
 msgid "% Comments"
 msgstr ""
 
-#: single.php:62
+#: single.php:71
 msgid "Tags:"
 msgstr ""
 
-#: template-contact.php:42
+#: template-contact.php:48
 msgid "Your Name"
 msgstr ""
 
-#: template-contact.php:45
+#: template-contact.php:51
 msgid "* Please provide your name"
 msgstr ""
 
-#: template-contact.php:49
+#: template-contact.php:55
 msgid "Your Email"
 msgstr ""
 
-#: template-contact.php:52
+#: template-contact.php:58
 msgid "* Please provide a valid email address"
 msgstr ""
 
-#: template-contact.php:56
+#: template-contact.php:62
 msgid "Subject"
 msgstr ""
 
-#: template-contact.php:63
+#: template-contact.php:69
 msgid "Your Message"
 msgstr ""
 
-#: template-contact.php:66
+#: template-contact.php:72
 msgid "* Please enter your message"
 msgstr ""
 
-#: template-contact.php:72
+#: template-contact.php:78
 msgid "Send Message"
 msgstr ""
 
-#: template-home-categories-articles.php:23
-#: template-home-categories-description.php:87
+#: template-home-categories-articles.php:28
+#: template-home-categories-description.php:92
 msgid "Categories"
 msgstr ""
 
-#: template-home-categories-articles.php:55
+#: template-home-categories-articles.php:60
 #, php-format
 msgid "View all posts in %s"
 msgstr ""
 
-#: template-home-categories-description.php:54
-#: template-parts/basic-home-template.php:45
-#: widgets/featured-articles-widget.php:58
+#: template-home-categories-description.php:59
+#: template-parts/basic-home-template.php:50
 msgid "Featured Articles"
 msgstr ""
 
-#: template-home-categories-description.php:73
-#: template-parts/basic-home-template.php:64
-#: widgets/latest-articles-widget.php:49
+#: template-home-categories-description.php:78
+#: template-parts/basic-home-template.php:69
 msgid "Latest Articles"
 msgstr ""
 
@@ -1190,125 +1061,8 @@ msgstr ""
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
-#: widgets/featured-articles-widget.php:11
-msgid "This widget displays featured articles."
-msgstr ""
-
-#: widgets/featured-articles-widget.php:13
-msgid "Knowledge Base - Featured Articles"
-msgstr ""
-
-#: widgets/featured-articles-widget.php:67
-#: widgets/latest-articles-widget.php:58 widgets/support-widget.php:58
-msgid "Widget Title"
-msgstr ""
-
-#: widgets/featured-articles-widget.php:71
-#: widgets/latest-articles-widget.php:62
-msgid "Number of Articles"
-msgstr ""
-
-#: widgets/flickr-widget.php:58
-msgid ""
-"No \"type\" parameter has been setup. Check your settings, or provide the "
-"parameter as an argument."
-msgstr ""
-
-#: widgets/flickr-widget.php:96
-msgid "Display Photos From Flickr"
-msgstr ""
-
-#: widgets/flickr-widget.php:98
-msgid "Knowledge Base - Flickr Photos"
-msgstr ""
-
-#: widgets/flickr-widget.php:104
-msgid "Flickr Photos"
-msgstr ""
-
-#: widgets/flickr-widget.php:121
-msgid "Flickr ID"
-msgstr ""
-
-#: widgets/flickr-widget.php:123
-msgid "Example"
-msgstr ""
-
-#: widgets/flickr-widget.php:127
-msgid "Number of Photos"
-msgstr ""
-
-#: widgets/google-search.php:23
-msgid "Google Search Widget"
-msgstr ""
-
-#: widgets/google-search.php:26
-msgid "Inspiry Cutom Google Search Widget"
-msgstr ""
-
-#: widgets/google-search.php:63
-msgid "Google Search"
-msgstr ""
-
-#: widgets/google-search.php:68 widgets/quick-links-widget.php:65
-msgid "Title:"
-msgstr ""
-
-#: widgets/latest-articles-widget.php:11
-msgid "This widget displays latest articles."
-msgstr ""
-
-#: widgets/latest-articles-widget.php:13
-msgid "Knowledge Base - Latest Articles"
-msgstr ""
-
-#: widgets/quick-links-widget.php:9
-msgid ""
-"Use this widget to add one of your custom menus as Quick Links widget in "
-"Knowledge Base Theme."
-msgstr ""
-
-#: widgets/quick-links-widget.php:10
-msgid "Knowledge Base - Quick Links Widget"
-msgstr ""
-
-#: widgets/quick-links-widget.php:51
-msgid "Quick Links"
-msgstr ""
-
-#: widgets/quick-links-widget.php:59
-#, php-format
-msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
-msgstr ""
-
-#: widgets/quick-links-widget.php:69
-msgid "Select Menu:"
-msgstr ""
-
-#: widgets/support-widget.php:11
-msgid "This widget displays information related to further support options."
-msgstr ""
-
-#: widgets/support-widget.php:13
-msgid "Knowledge Base - Support Widget"
-msgstr ""
-
-#: widgets/support-widget.php:49
-msgid "Support"
-msgstr ""
-
-#: widgets/support-widget.php:50
-msgid ""
-"Need more support? If you did not found an answer, contact us for further "
-"help."
-msgstr ""
-
-#: widgets/support-widget.php:62
-msgid "Support Text"
-msgstr ""
-
 #. Theme Name of the plugin/theme
-msgid "Knowledge Base Theme"
+msgid "Inspiry KnowledgeBase"
 msgstr ""
 
 #. Theme URI of the plugin/theme
