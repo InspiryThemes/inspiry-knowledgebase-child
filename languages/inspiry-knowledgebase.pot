@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: Inspiry KnowledgeBase\n"
-"POT-Creation-Date: 2019-02-19 15:10+0500\n"
-"PO-Revision-Date: 2019-02-19 15:09+0500\n"
+"POT-Creation-Date: 2019-02-21 12:09+0500\n"
+"PO-Revision-Date: 2019-02-21 11:52+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "MIME-Version: 1.0\n"
@@ -68,18 +68,6 @@ msgstr ""
 
 #: comments.php:58
 msgid "Submit Comment"
-msgstr ""
-
-#: framework/customizer/contact.php:15
-msgid "Contact Page"
-msgstr ""
-
-#: framework/customizer/contact.php:27
-msgid "Contact Form Email"
-msgstr ""
-
-#: framework/customizer/contact.php:28
-msgid "Provide email address that will get messages from contact form."
 msgstr ""
 
 #: framework/customizer/custom/repeater/class/customizer-repeater-control.php:29
@@ -198,20 +186,6 @@ msgstr ""
 msgid "Copyright Text"
 msgstr ""
 
-#: framework/customizer/header.php:13
-msgid "Header"
-msgstr ""
-
-#: framework/customizer/header.php:22
-msgid "Tracking Code"
-msgstr ""
-
-#: framework/customizer/header.php:23
-msgid ""
-"Paste your Google Analytics (or other) tracking code here. This will be "
-"added into the footer of your theme."
-msgstr ""
-
 #: framework/customizer/home.php:29
 msgid "Select a Tag:"
 msgstr ""
@@ -289,54 +263,6 @@ msgstr ""
 msgid "This text will appear below search area main title."
 msgstr ""
 
-#: framework/customizer/social-nav.php:15
-msgid "Social Nav"
-msgstr ""
-
-#: framework/customizer/social-nav.php:27
-msgid "Yes"
-msgstr ""
-
-#: framework/customizer/social-nav.php:28
-msgid "Do you want to Show Social Icons?"
-msgstr ""
-
-#: framework/customizer/social-nav.php:44
-msgid "Facebook"
-msgstr ""
-
-#: framework/customizer/social-nav.php:56
-msgid "Twitter"
-msgstr ""
-
-#: framework/customizer/social-nav.php:68
-msgid "RSS"
-msgstr ""
-
-#: framework/customizer/social-nav.php:80
-msgid "Linkedin"
-msgstr ""
-
-#: framework/customizer/social-nav.php:93
-msgid "Skype"
-msgstr ""
-
-#: framework/customizer/social-nav.php:106
-msgid "Flickr"
-msgstr ""
-
-#: framework/customizer/social-nav.php:119
-msgid "Deviant Art"
-msgstr ""
-
-#: framework/customizer/social-nav.php:132
-msgid "Google"
-msgstr ""
-
-#: framework/customizer/social-nav.php:144
-msgid "Stumble Upon"
-msgstr ""
-
 #: framework/customizer/styles.php:15
 msgid "Styling"
 msgstr ""
@@ -399,128 +325,128 @@ msgstr ""
 msgid "This font will replace secondary Droid Serif theme font."
 msgstr ""
 
-#: functions.php:36
+#: functions.php:64
 msgid "Paragraph Color Rolling Stone"
 msgstr ""
 
-#: functions.php:41
+#: functions.php:69
 msgid "Heading and Link Color Mako"
 msgstr ""
 
-#: functions.php:46
+#: functions.php:74
 msgid "Link Hover Chambray"
 msgstr ""
 
-#: functions.php:54
+#: functions.php:82
 msgid "small"
 msgstr ""
 
-#: functions.php:59
+#: functions.php:87
 msgid "regular"
 msgstr ""
 
-#: functions.php:64
+#: functions.php:92
 msgid "large"
 msgstr ""
 
-#: functions.php:69
+#: functions.php:97
 msgid "larger"
 msgstr ""
 
-#: functions.php:129
+#: functions.php:148
 msgctxt "Open Sans Round font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:130
+#: functions.php:149
 msgctxt "Droid Serif Round font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:136 functions.php:147
+#: functions.php:155 functions.php:166
 msgctxt "Primary Font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:365 functions/load_theme_scripts.php:38
+#: functions.php:383
 msgid "Go to..."
 msgstr ""
 
-#: functions.php:474
+#: functions.php:426
 msgid "Sidebar"
 msgstr ""
 
-#: functions.php:484
+#: functions.php:436
 msgid "Home Sidebar"
 msgstr ""
 
-#: functions.php:494
+#: functions.php:446
 msgid "Pages Sidebar"
 msgstr ""
 
-#: functions.php:504
+#: functions.php:456
 msgid "Contact Sidebar"
 msgstr ""
 
-#: functions.php:514
+#: functions.php:466
 msgid "Footer First Column"
 msgstr ""
 
-#: functions.php:524
+#: functions.php:476
 msgid "Footer Second Column"
 msgstr ""
 
-#: functions.php:534
+#: functions.php:486
 msgid "Footer Third Column"
 msgstr ""
 
-#: functions.php:544
+#: functions.php:496
 msgid "Footer Fourth Column"
 msgstr ""
 
-#: functions.php:619
+#: functions.php:569
 msgid "Tag: "
 msgstr ""
 
-#: functions.php:626
+#: functions.php:576
 msgid "404 - Page not Found"
 msgstr ""
 
-#: functions.php:633 header.php:93
+#: functions.php:583 header.php:93
 msgid "Search"
 msgstr ""
 
-#: functions.php:711
+#: functions.php:660
 msgid "Read more"
 msgstr ""
 
-#: functions.php:735 index.php:40
+#: functions.php:683 index.php:40
 msgid "No Articles Found!"
 msgstr ""
 
-#: functions/theme_comment.php:17
+#: functions.php:799
 msgid "Pingback:"
 msgstr ""
 
-#: functions/theme_comment.php:17
+#: functions.php:799
 msgid "(Edit)"
 msgstr ""
 
-#: functions/theme_comment.php:34
+#: functions.php:816
 #, php-format
 msgid "%s"
 msgstr ""
 
-#: functions/theme_comment.php:43
+#: functions.php:825
 #, php-format
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: functions/theme_comment.php:53
+#: functions.php:835
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: functions/theme_comment.php:58
+#: functions.php:840
 msgid "Edit"
 msgstr ""
 
@@ -554,38 +480,6 @@ msgstr ""
 
 #: single.php:71
 msgid "Tags:"
-msgstr ""
-
-#: template-contact.php:48
-msgid "Your Name"
-msgstr ""
-
-#: template-contact.php:51
-msgid "* Please provide your name"
-msgstr ""
-
-#: template-contact.php:55
-msgid "Your Email"
-msgstr ""
-
-#: template-contact.php:58
-msgid "* Please provide a valid email address"
-msgstr ""
-
-#: template-contact.php:62
-msgid "Subject"
-msgstr ""
-
-#: template-contact.php:69
-msgid "Your Message"
-msgstr ""
-
-#: template-contact.php:72
-msgid "* Please enter your message"
-msgstr ""
-
-#: template-contact.php:78
-msgid "Send Message"
 msgstr ""
 
 #: template-home-categories-articles.php:28
