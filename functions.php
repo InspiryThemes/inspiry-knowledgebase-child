@@ -27,7 +27,7 @@ if ( !function_exists( 'inspiry_load_translation_from_child' ) ) {
      * Load translation files from child theme
      */
     function inspiry_load_translation_from_child() {
-        load_child_theme_textdomain ( 'inspiry-knowledgebase', get_stylesheet_directory() . '/languages' );
+        load_child_theme_textdomain ( 'inspiry-knowledgebase-child', get_stylesheet_directory() . '/languages' );
     }
     add_action ( 'after_setup_theme', 'inspiry_load_translation_from_child' );
 }
